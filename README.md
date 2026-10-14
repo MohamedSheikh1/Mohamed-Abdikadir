@@ -1,62 +1,56 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Mo Sheikh 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CEO+%26+Founder+at+SITI;AI+%26+Prompt+Engineering+Educator;Learning+Data+Analytics;Technology+%26+Innovation+Leader" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/mohamed-abdikadir-282a3830a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <!-- TODO: add your YouTube link, or delete this line -->
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:Mohedabdikadir57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 About Me
+I'm Mohamed Abdikadir (Mo Sheikh), CEO and founder of the **SMART Institute of Technology & Innovation (SITI)**. I design professional AI and Prompt Engineering courses that help people build practical, job-ready skills.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I'm also associated with Daha International University in Kismayo, Somalia, and I run **Mo-Sheikh Farms**, a livestock and agricultural business. I'm based in Nairobi, Kenya, and work both remotely and offline.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+My goal is to use technology and data to create real opportunities, in education and in business.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+When I'm not working, I enjoy [TODO: your hobby, e.g., mentoring others, learning, creating content].
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### [🏆 Check Out My Full Portfolio Website](https://TODO-your-username.github.io/)
 
-## 🌱 Currently Learning 
+## 🔭 What I'm Currently Working On
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **SITI AI & Prompt Engineering Course:** Building a structured, module-based professional course with training slides.
+- **Education Dashboards:** Creating Excel dashboards to analyze student results across schools.
+- **Content Creation:** Developing training materials and learning resources for SITI students.
+
+## 🌱 Currently Learning
+
+- Data analytics: Excel, dashboards, and a certification pathway
+- Advanced data analysis and visualization tools
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+#### AI & Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-8A2BE2?style=flat" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/AI%20Training%20%26%20Curriculum-Expert-FF6B6B?style=flat" alt="AI Training">
+</p>
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-#### Programming & Automation
+#### Leadership & Business
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Entrepreneurship-Experienced-96CEB4?style=flat" alt="Entrepreneurship">
+  <img src="https://img.shields.io/badge/Course%20Development-Expert-4ECDC4?style=flat" alt="Course Development">
+  <img src="https://img.shields.io/badge/Agribusiness-Experienced-45B7D1?style=flat" alt="Agribusiness">
 </p>
